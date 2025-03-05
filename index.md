@@ -30,13 +30,12 @@ author: Xu Shurui
 - Email: shurui.24@intl.zju.edu.cn
 - GitHub: [Xu-Shurui](https://github.com/Xu-Shurui)
 
-<p align="center">
-[](c:\Users\21507\Desktop\生物信息学\IBI1\notes\IBI_12024-2025\IBI1_2024-25\Practical3\Xu-Shurui.github.io\image\2.png)
-</p>
 
-<p align="center">
+[](c:\Users\21507\Desktop\生物信息学\IBI1\notes\IBI_12024-2025\IBI1_2024-25\Practical3\Xu-Shurui.github.io\image\2.png)
+
+
 [](c:\Users\21507\Desktop\生物信息学\IBI1\notes\IBI_12024-2025\IBI1_2024-25\Practical3\Xu-Shurui.github.io\image\1.png)
-</p>
+
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Xu-Shurui&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
