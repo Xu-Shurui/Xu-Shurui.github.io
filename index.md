@@ -10,32 +10,32 @@ author: Xu Shurui
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+obsessed+with+programming!" />
 </p>
 
 ## About Me
 
 - I like tea.
 - I like chocolate biscuits.
-- I like snow.
+- I like XiaoShu
 
 ## My Interests
 
 - Reading books
-- Hiking
+- Programming
 - Photography
 
 ## Contact Me
 
-- Email: xu.shurui@example.com
+- Email: shurui.24@intl.zju.edu.cn
 - GitHub: [Xu-Shurui](https://github.com/Xu-Shurui)
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Xu-Shurui&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+[](c:\Users\21507\Desktop\生物信息学\IBI1\notes\IBI_12024-2025\IBI1_2024-25\Practical3\Xu-Shurui.github.io\image\2.png)
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Xu-Shurui&theme=github-compact&hide_border=true&area=true">
+[](c:\Users\21507\Desktop\生物信息学\IBI1\notes\IBI_12024-2025\IBI1_2024-25\Practical3\Xu-Shurui.github.io\image\1.png)
 </p>
 
 <p align="center">
