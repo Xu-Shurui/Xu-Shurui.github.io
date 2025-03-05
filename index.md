@@ -31,10 +31,10 @@ author: Xu Shurui
 - GitHub: [Xu-Shurui](https://github.com/Xu-Shurui)
 
 
-![](file:///C:/Users/21507/Desktop/%E7%94%9F%E7%89%A9%E4%BF%A1%E6%81%AF%E5%AD%A6/IBI1/notes/IBI_12024-2025/IBI1_2024-25/Practical3/Xu-Shurui.github.io/image/1.png)
+![](https://github.com/Xu-Shurui/Xu-Shurui.github.io/blob/main/image/1.png)
 
 
-![](file:///C:/Users/21507/Desktop/%E7%94%9F%E7%89%A9%E4%BF%A1%E6%81%AF%E5%AD%A6/IBI1/notes/IBI_12024-2025/IBI1_2024-25/Practical3/Xu-Shurui.github.io/image/2.png)
+![](https://github.com/Xu-Shurui/Xu-Shurui.github.io/blob/main/image/2.png)
 
 
 <p align="center">
